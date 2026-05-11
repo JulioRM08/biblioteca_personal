@@ -1,0 +1,11 @@
+name: biblioteca_personal
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.11.0'
+
+dependencies:
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  path_provider: ^2.1.2
+  path: ^1.9.0
